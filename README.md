@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @momo992k
 - 👀 I’m interested in programming
-- 🌱 I’m currently cpp
-- 💞️ I’m looking to collaborate on cpp
+- 🌱 i have low end pc
+- 💞️ I want to make money online 
 
 <!---
 momo992k/momo992k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
